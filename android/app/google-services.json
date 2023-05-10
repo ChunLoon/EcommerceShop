@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732089757258",
+    "project_id": "ecommerce-419c5",
+    "storage_bucket": "ecommerce-419c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732089757258:android:d198f117d2baf2229380b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732089757258-fmkquaj2q6288bdc0c73bsinoco67v0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFAQ-piI57Uq8J1nQGdDeRkgcVX3n0uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732089757258-fmkquaj2q6288bdc0c73bsinoco67v0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
